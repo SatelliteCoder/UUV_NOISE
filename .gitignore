@@ -1,0 +1,29 @@
+# Generated outputs
+output/
+output*/
+*.wav
+*.mat
+*.png
+*.csv
+
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+slprj/
+sccprj/
+codegen/
+
+# Local MATLAB preferences/cache
+.matlab/
+*.prf
+*.p12
+*.pem
+epfwk_cache-*.json
+MLintDefaultSettings.txt
+migratePref.txt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
