@@ -1,10 +1,8 @@
-# Generated outputs
-output/
-output*/
-*.wav
-*.mat
-*.png
-*.csv
+# Local scratch outputs. Project example outputs under uuv_source_model/output
+# are intentionally versioned for this repository.
+scratch/
+tmp/
+temp/
 
 # MATLAB autosave and temporary files
 *.asv
