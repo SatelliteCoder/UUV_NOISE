@@ -38,7 +38,7 @@ RAM, Kraken, or the chosen solver's transmission loss.
 The script writes to:
 
 ```text
-E:\HJ\codex\uuv_point_source_model\output
+output
 ```
 
 Expected files:
