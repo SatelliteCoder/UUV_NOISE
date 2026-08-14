@@ -8,7 +8,7 @@ model for 3D underwater sound-field simulation.
 In MATLAB:
 
 ```matlab
-run('E:\HJ\codex\uuv_point_source_model\demo_uuv_point_source_noise.m')
+run('uuv_point_source_model\demo_uuv_point_source_noise.m')
 ```
 
 ## Model
