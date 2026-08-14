@@ -17,7 +17,7 @@ surface surface source
 volume  volume source
 ```
 
-The generated signal is not arbitrary white noise. It is a semi-empirical UUV target radiated-noise model composed of machinery broadband noise, motor/shaft tonal lines, propeller blade-pass-frequency tones, modulated propeller/cavitation broadband noise, and hull-flow broadband noise.
+The generated signal is a semi-empirical UUV target radiated-noise model composed of machinery broadband noise, motor/shaft tonal lines, propeller blade-pass-frequency tones, modulated propeller/cavitation broadband noise, and hull-flow broadband noise.
 
 See the detailed documentation:
 
