@@ -2,7 +2,7 @@
 % One-click demo for a semi-empirical UUV point-source radiated-noise model.
 %
 % Run from MATLAB:
-%   run('E:\HJ\codex\uuv_point_source_model\demo_uuv_point_source_noise.m')
+%   run('demo_uuv_point_source_noise.m')
 
 clear; close all; clc;
 
